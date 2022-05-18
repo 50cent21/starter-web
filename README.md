@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple web project from
-git udemy course
+git udemy course. Adding a line for rebasing example.
 
 ## Introduction
 
