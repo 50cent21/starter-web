@@ -12,6 +12,8 @@ This is an introduction
 
 ## How To Contribute
 
+Fork this repository and issue Pull Requests for review.
+
 ###Copyright
 
 Git Training
