@@ -12,4 +12,6 @@ This is an introduction
 
 ## How To Contribute
 
+###Copyright
 
+Git Training
